@@ -18,8 +18,9 @@ A collection of Python scripts to fetch timeseries and event details from Polyma
    ```bash
    git clone https://github.com/academy17/polymarket-histories.git
    cd polymarket-histories
+```
 
-Set up a virtual environment (recommended):
+**Set up a virtual environment** (recommended):
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
